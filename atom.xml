@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LittleDao的博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-09T06:46:32.208Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Little Dao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国内镜像网站</title>
+    <link href="http://example.com/2021/10/09/%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E7%BD%91%E7%AB%99/"/>
+    <id>http://example.com/2021/10/09/%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E7%BD%91%E7%AB%99/</id>
+    <published>2021-10-09T05:43:00.000Z</published>
+    <updated>2021-10-09T06:46:32.208Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>企业贡献：<ul><li>搜狐开源镜像站：<a href="http://mirrors.sohu.com/">http://mirrors.sohu.com/</a></li><li>网易开源镜像站：<a href="http://mirrors.163.com/">http://mirrors.163.com/</a></li></ul></li><li>大学教学：<ul><li>北京理工大学：<ul><li><a href="http://mirror.bit.edu.cn/">http://mirror.bit.edu.cn</a> (IPv4 only)</li><li><a href="http://mirror.bit6.edu.cn/">http://mirror.bit6.edu.cn</a> (IPv6 only)</li></ul></li><li>北京交通大学：<ul><li><a href="http://mirror.bjtu.edu.cn/">http://mirror.bjtu.edu.cn</a> (IPv4 only)</li><li><a href="http://mirror6.bjtu.edu.cn/">http://mirror6.bjtu.edu.cn</a> (IPv6 only)</li><li><a href="http://debian.bjtu.edu.cn/">http://debian.bjtu.edu.cn</a> (IPv4+IPv6)</li></ul></li><li>兰州大学：<a href="http://mirror.lzu.edu.cn/">http://mirror.lzu.edu.cn/</a></li><li>厦门大学：<a href="http://mirrors.xmu.edu.cn/">http://mirrors.xmu.edu.cn/</a></li><li>上海交通大学：<ul><li><a href="http://ftp.sjtu.edu.cn/">http://ftp.sjtu.edu.cn/</a> (IPv4 only)</li><li><a href="http://ftp6.sjtu.edu.cn/">http://ftp6.sjtu.edu.cn</a> (IPv6 only)</li></ul></li><li>清华大学：<ul><li><a href="http://mirrors.tuna.tsinghua.edu.cn/">http://mirrors.tuna.tsinghua.edu.cn/</a> (IPv4+IPv6)</li><li><a href="http://mirrors.6.tuna.tsinghua.edu.cn/">http://mirrors.6.tuna.tsinghua.edu.cn/</a> (IPv6 only)</li><li><a href="http://mirrors.4.tuna.tsinghua.edu.cn/">http://mirrors.4.tuna.tsinghua.edu.cn/</a> (IPv4 only)</li></ul></li><li>天津大学：<a href="http://mirror.tju.edu.cn/">http://mirror.tju.edu.cn/</a></li><li>中国科学技术大学：<ul><li><a href="http://mirrors.ustc.edu.cn/">http://mirrors.ustc.edu.cn/</a> (IPv4+IPv6)</li><li><a href="http://mirrors4.ustc.edu.cn/">http://mirrors4.ustc.edu.cn/</a></li><li><a href="http://mirrors6.ustc.edu.cn/">http://mirrors6.ustc.edu.cn/</a></li></ul></li><li>西南大学：<a href="http://linux.swu.edu.cn/swudownload/Distributions/">http://linux.swu.edu.cn/swudownload/Distributions/</a></li><li>东北大学：<ul><li><a href="http://mirror.neu.edu.cn/">http://mirror.neu.edu.cn/</a> (IPv4 only)</li><li><a href="http://mirror.neu6.edu.cn/">http://mirror.neu6.edu.cn/</a> (IPv6 only)</li></ul></li><li>电子科技大学：<a href="http://ubuntu.uestc.edu.cn/">http://ubuntu.uestc.edu.cn/</a></li><li>青岛大学：<a href="http://mirror.qdu.edu.cn/">http://mirror.qdu.edu.cn/</a></li></ul></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;企业贡献：&lt;ul&gt;
+&lt;li&gt;搜狐开源镜像站：&lt;a href=&quot;http://mirrors.sohu.com/&quot;&gt;http://mirrors.sohu.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;网易开源镜像站：&lt;a href=&quot;http://mirrors.163.</summary>
+      
+    
+    
+    
+    
+    <category term="镜像" scheme="http://example.com/tags/%E9%95%9C%E5%83%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>oracle 数据库导出到本地</title>
+    <link href="http://example.com/2021/10/08/orcale%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%87%BA%E5%88%B0%E6%9C%AC%E5%9C%B0/"/>
+    <id>http://example.com/2021/10/08/orcale%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AF%BC%E5%87%BA%E5%88%B0%E6%9C%AC%E5%9C%B0/</id>
+    <published>2021-10-08T08:22:21.510Z</published>
+    <updated>2021-10-08T08:49:00.483Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="oracle-数据库的导出"><a href="#oracle-数据库的导出" class="headerlink" title="oracle 数据库的导出"></a>oracle 数据库的导出</h3><p>通过idea的数据库工具在数据库上右键，选择<code>export data to files</code>，然后勾选上<code>computed</code>和<code>add table definition(DDL)</code>。选择一下输出路径后点击<code>export to files</code>。<br><img src="/img/oracle/20211008163911.png" alt="idea操作1"><br><img src="/img/oracle/20211008164006.png" alt="idea操作2"></p><h3 id="处理文件"><a href="#处理文件" class="headerlink" title="处理文件"></a>处理文件</h3><p>使用idea导出后的文件是一个一个的sql文件，在没有批量执行sql文件的功能时，可以考虑合并这些sql文件。windows下的命令为<code>type *.sql &gt;&gt; xxx.sql</code>。</p><h3 id="导入到本地库"><a href="#导入到本地库" class="headerlink" title="导入到本地库"></a>导入到本地库</h3><p>通过数据库管理工具执行合并后的<code>xxx.sql</code>。</p><h3 id="结束-amp-致谢"><a href="#结束-amp-致谢" class="headerlink" title="结束&amp;致谢"></a>结束&amp;致谢</h3><p>感谢<a href="https://blog.csdn.net/wb1046329430/article/details/109629977" title="Navicat for MySQL 批量执行多个 SQL 文件">一线大码</a>提供合并sql的思路。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;oracle-数据库的导出&quot;&gt;&lt;a href=&quot;#oracle-数据库的导出&quot; class=&quot;headerlink&quot; title=&quot;oracle 数据库的导出&quot;&gt;&lt;/a&gt;oracle 数据库的导出&lt;/h3&gt;&lt;p&gt;通过idea的数据库工具在数据库上右键，选择&lt;cod</summary>
+      
+    
+    
+    
+    
+    <category term="oracle数据库" scheme="http://example.com/tags/oracle%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/09/29/hello-world/"/>
+    <id>http://example.com/2021/09/29/hello-world/</id>
+    <published>2021-09-29T09:06:36.489Z</published>
+    <updated>2021-09-30T03:56:59.544Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://example.com/2021/09/10/My-New-Post/"/>
+    <id>http://example.com/2021/09/10/My-New-Post/</id>
+    <published>2021-09-10T09:50:32.000Z</published>
+    <updated>2021-09-30T03:56:59.543Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="This-is-my-first-vim-test-my-first-hexo-blog-and-my-first-markdown-test"><a href="#This-is-my-first-vim-test-my-first-hexo-blog-and-my-first-markdown-test" class="headerlink" title="This is my first vim test ,my first hexo-blog, and  my first markdown test"></a>This is my first vim test ,my first hexo-blog, and  my first markdown test</h3><blockquote><p>这是测试中文是否出错的测试<br>同时是测试可否直接编辑源文件进行发布</p><p>不能用vim直接编辑会乱码</p></blockquote><h1 id="can-not-have-chinese"><a href="#can-not-have-chinese" class="headerlink" title="can not have chinese"></a>can not have chinese</h1><h2 id="2021-9-30更新"><a href="#2021-9-30更新" class="headerlink" title="2021-9-30更新"></a>2021-9-30更新</h2><blockquote><p>可以使用中文，需要设置vim的编码，以及创建的文件编码为utf-8才行</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;This-is-my-first-vim-test-my-first-hexo-blog-and-my-first-markdown-test&quot;&gt;&lt;a href=&quot;#This-is-my-first-vim-test-my-first-hexo-blog-and-</summary>
+      
+    
+    
+    
+    
+    <category term="testChinese" scheme="http://example.com/tags/testChinese/"/>
+    
+  </entry>
+  
+</feed>
